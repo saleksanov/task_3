@@ -1,3 +1,3 @@
 
-str = sprintf('\nHello git');
+str = sprintf('\nComment was added');
 disp(str);
