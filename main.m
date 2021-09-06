@@ -1,3 +1,3 @@
 
-str = sprintf('\nHello world');
+str = sprintf('\nHello git');
 disp(str);
